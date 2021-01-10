@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="251" height="1230" viewBox="0 0 251 1230">
+  <defs>
+    <filter id="Объединение_3" x="0" y="0" width="251" height="1230" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Объединение_3)">
+    <path id="Объединение_3-2" data-name="Объединение 3" d="M-1178-4079.675v-595.5h.14v-196h-.14v-238h28a73,73,0,0,1,73,73v140a25,25,0,0,1-22.793,24.9h8.86a71.511,71.511,0,0,0-50.888,21.112,71.515,71.515,0,0,0-21.112,50.888v44.163a80.206,80.206,0,0,0,79.431,80h-4.83a12.627,12.627,0,0,1,11.332,12.56v582.875a50.5,50.5,0,0,1-50.5,50.5A50.5,50.5,0,0,1-1178-4079.675Z" transform="translate(1253 5174.18)" fill="#fff"/>
+  </g>
+</svg>
